@@ -16,8 +16,7 @@ La commande mkdir "nom" permet de créer un dossier que j'ai nommé exercice3, e
 J'ai pu avoir comme résultat : /home/test/exercice3 ; ça montre que je travaille bien dans le bon dossier (exercice3).
 
 2. Création du fichier secret.txt
-  - touch secret.txt<img width="544" height="295" alt="Capture d'écran 2025-10-08 105417" src="https://github.com/user-attachments/assets/e44cca24-a53d-4f83-9ec0-dbc0b7a25ae1" />
-
+  - touch secret.txt
 La commande touch crée un fichier vide nommé secret.txt. Je l'utilise ici pour simuler un fichier confidentiel.
 
 3. Modification des permissions du répertoire
